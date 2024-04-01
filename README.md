@@ -1,7 +1,11 @@
 # Database-Optimization-and-Validation
 # Test Assignment: Database Optimization and Validation
-
-This test assignment assesses your knowledge and skills related to database optimization and validation. Please follow the instructions carefully and provide clear and concise answers. You may use any programming language or tool of your choice for the coding tasks.
+##Instructions
+This test assignment is designed to assess your knowledge and skills related to
+database optimization and validation. Please follow the instructions carefully
+and provide clear and concise answers. You may use any programming language
+or tool of your choice for the coding tasks.
+mysql -h 18.212.98.121 -u farhan -p classicmodels Password- farhan.
 
 ## Database Optimization
 
